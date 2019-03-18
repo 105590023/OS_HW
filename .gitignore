@@ -7,3 +7,4 @@
 modules.order
 Modules.symvers
 dkms.conf
+*.class
