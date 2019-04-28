@@ -1,6 +1,11 @@
 # HW3 K-Nearest Neighbors
 ## 作者：資工三 105590023 芮嘉輝
 
+12345
+6789
+
+asd
+
 ## 執行方法：
 1. 使用終端機到資料內執行make指令。
 2. 執行k_nearest_neighbors檔案。
